@@ -1,0 +1,21 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.vscode/
+.idea/
+
+# 临时与备份文件
+*.tmp
+*.bak
+*~
+
+# 本地草稿与个人笔记（不随仓库分发）
+_private/
+草稿/
+*.local.md
+
+# 脚本缓存
+__pycache__/
+*.pyc
